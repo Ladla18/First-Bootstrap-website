@@ -1,0 +1,36 @@
+.section{
+    border-radius: 50%;
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    margin: 0px auto;
+    background-color: aqua;
+    box-shadow: 2px 2px 10px gray;
+}
+.section img{
+   width: 200px;
+   height: 200px;
+ 
+   box-shadow: 2px 2px 10px black;
+}
+.footer{
+    height: 300px;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.footerimg img{
+    align-items: center;
+    width: 100px;
+}
+.mynav{
+    height: 30px;
+}
+.myownclass{
+    background-color: yellowgreen;
+}
+.searchicon{
+    position: relative;
+    right: 40px;
+    margin-top:11px;
+}
